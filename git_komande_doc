@@ -1,0 +1,5 @@
+#GIT  KOMANDE
+git init
+git add ./file.txt
+git commit -m "description"
+git push origin main
